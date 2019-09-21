@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['前列腺素_6',['前列腺素',['../classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE5_x89_x8D_xE5_x88_x97_xE8_x85_xBA_xE7_xB4_xA0.html',1,'cn::gedobu::leviathan::cn']]]
+  ['亮氨酸_10',['亮氨酸',['../classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE6_xB0_xA8_xE5_x9F_xBA_xE9_x85_xB8_1_1_xE4_xBA_xAE_xE6_xB0_xA8_xE9_x85_xB8.html',1,'cn::gedobu::leviathan::cn::氨基酸']]]
 ];

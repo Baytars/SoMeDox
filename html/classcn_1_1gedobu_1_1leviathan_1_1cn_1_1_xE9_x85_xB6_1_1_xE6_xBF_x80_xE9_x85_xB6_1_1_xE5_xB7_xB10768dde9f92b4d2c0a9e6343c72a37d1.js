@@ -1,0 +1,6 @@
+var classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE9_x85_xB6_1_1_xE6_xBF_x80_xE9_x85_xB6_1_1_xE5_xB7_xB10768dde9f92b4d2c0a9e6343c72a37d1 =
+[
+    [ "己糖激酶", "classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE9_x85_xB6_1_1_xE6_xBF_x80_xE9_x85_xB6_1_1_xE5_xB7_xB10768dde9f92b4d2c0a9e6343c72a37d1.html#a2749c55cfe5157ca170821c100ed4e1a", null ],
+    [ "活性", "classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE9_x85_xB6_1_1_xE6_xBF_x80_xE9_x85_xB6_1_1_xE5_xB7_xB10768dde9f92b4d2c0a9e6343c72a37d1.html#a51ac51ea33d7fa9a2e5aac9ec3dfc53f", null ],
+    [ "类型", "classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE9_x85_xB6_1_1_xE6_xBF_x80_xE9_x85_xB6_1_1_xE5_xB7_xB10768dde9f92b4d2c0a9e6343c72a37d1.html#a0b25ea6875759bb8ae9d920ad059b13e", null ]
+];
