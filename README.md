@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to SoMe
 
-You can use the [editor on GitHub](https://github.com/Baytars/SoMeDox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Go to [documentation index page](https://baytars.github.io/SoMeDox/html/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
