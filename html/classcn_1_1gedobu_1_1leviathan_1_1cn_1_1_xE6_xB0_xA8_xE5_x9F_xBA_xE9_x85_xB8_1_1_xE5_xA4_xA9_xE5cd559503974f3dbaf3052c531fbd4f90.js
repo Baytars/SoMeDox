@@ -1,5 +1,0 @@
-var classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE6_xB0_xA8_xE5_x9F_xBA_xE9_x85_xB8_1_1_xE5_xA4_xA9_xE5cd559503974f3dbaf3052c531fbd4f90 =
-[
-    [ "合成嘌呤", "classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE6_xB0_xA8_xE5_x9F_xBA_xE9_x85_xB8_1_1_xE5_xA4_xA9_xE5cd559503974f3dbaf3052c531fbd4f90.html#a7383f89e2f2ae5498148fdccadf84e30", null ],
-    [ "合成嘧啶", "classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE6_xB0_xA8_xE5_x9F_xBA_xE9_x85_xB8_1_1_xE5_xA4_xA9_xE5cd559503974f3dbaf3052c531fbd4f90.html#a47e7db98b5887acf750625f829f608a4", null ]
-];

@@ -1,4 +1,0 @@
-var classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE6_xB0_xA8_xE5_x9F_xBA_xE9_x85_xB8_1_1_xE7_x94_x98_xE6_xB0_xA8_xE9_x85_xB8 =
-[
-    [ "合成嘌呤", "classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE6_xB0_xA8_xE5_x9F_xBA_xE9_x85_xB8_1_1_xE7_x94_x98_xE6_xB0_xA8_xE9_x85_xB8.html#a88e4a43b79d98a558fc5bada9c00b229", null ]
-];

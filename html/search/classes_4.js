@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['乙酰coa_64',['乙酰CoA',['../classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE4_xB9_x99_xE9_x85_xB0_co_a.html',1,'cn::gedobu::leviathan::cn']]]
+  ['主诉_84',['主诉',['../d9/d03/classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE9_x97_xAE_xE8_xAF_x8A_1_1_xE4_xB8_xBB_xE8_xAF_x89.html',1,'cn::gedobu::leviathan::cn::问诊']]]
 ];

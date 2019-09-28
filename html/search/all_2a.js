@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['谷氨酰胺_52',['谷氨酰胺',['../classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE6_xB0_xA8_xE5_x9F_xBA_xE9_x85_xB8_1_1_xE8_xB0_xB7_xE614fc6161802dababaada0ca5b6152a40.html',1,'cn::gedobu::leviathan::cn::氨基酸']]],
-  ['谷氨酸_53',['谷氨酸',['../classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE6_xB0_xA8_xE5_x9F_xBA_xE9_x85_xB8_1_1_xE8_xB0_xB7_xE6_xB0_xA8_xE9_x85_xB8.html',1,'cn::gedobu::leviathan::cn::氨基酸']]]
+  ['缩宫素_53',['缩宫素',['../d8/d51/classcn_1_1gedobu_1_1leviathan_1_1cn_1_1_xE7_xBC_xA9_xE5_xAE_xAB_xE7_xB4_xA0.html',1,'cn::gedobu::leviathan::cn']]]
 ];
